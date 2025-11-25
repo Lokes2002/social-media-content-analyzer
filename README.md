@@ -14,7 +14,7 @@ This project uses:
 [Watch the demo video](https://drive.google.com/file/d/16Tbqp9T0UbuAxqdPYECE-oyHLmDXu51S/view?usp=sharing)
 
 
-# 🚀 Live Working Application
+#  Live Working Application
 
 ### **Frontend (User Interface)**
 🔗 https://forent-psi.vercel.app/
@@ -27,7 +27,7 @@ This project uses:
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 root/
 ├── frontend/ → React UI
@@ -37,7 +37,7 @@ root/
 
 ---
 
-# 🧠 Features
+#  Features
 
 ✔ Upload Image or PDF  
 ✔ Extract Text (OCR / PDF extraction)  
@@ -49,7 +49,7 @@ root/
 
 ---
 
-# 🏗 System Architecture
+#  System Architecture
 
 React Frontend
 ↓ (FormData file)
